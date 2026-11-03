@@ -116,8 +116,8 @@ export const SCHOOL_INFO = {
   whatsappUrl: "https://wa.me/+827712755454",
   historyUrl: "https://smpplusal-imamah.blogspot.com/p/sejarah-smp-plus-al-imamah-smp-plus-al.html",
   greetingUrl: "https://smpplusal-imamah.blogspot.com/p/kata-sambutan-kepala-sekolah-peluncuran.html",
-  heroImage: "/src/assets/images/hero_pesantren_students_1793646545378.jpg",
-  campusImage: "/src/assets/images/campus_al_imamah_1793646545524.jpg",
+  heroImage: "/assets/images/hero_pesantren_students_1793646545378.jpg",
+  campusImage: "/assets/images/campus_al_imamah_1793646545524.jpg",
   logo: "/assets/aistudio/Logo_Yayasan_AL-IMAMAH-ASLI_e94eade0.png",
 };
 
